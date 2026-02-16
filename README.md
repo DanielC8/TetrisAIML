@@ -4,7 +4,8 @@ This project implements an automated Tetris player using a genetic algorithm. A 
 
 ## Demo
 
-https://github.com/DanielC8/TetrisAIML/blob/main/VideoDemoTetris.mp4
+https://github.com/user-attachments/assets/590cc684-d22f-4de9-a1a4-8cd62e2cc693
+
 
 ## Features
 - Genetic algorithm training pipeline with population-based evolution, crossover, and mutation.
