@@ -2,6 +2,10 @@
 
 This project implements an automated Tetris player using a genetic algorithm. A population of agents evolves over generations to learn optimal piece placement strategies. The best trained model cleared approximately 14,000 lines.
 
+## Demo
+
+https://github.com/DanielC8/TetrisAIML/blob/main/VideoDemoTetris.mp4
+
 ## Features
 - Genetic algorithm training pipeline with population-based evolution, crossover, and mutation.
 - 9-feature board evaluation function covering aggregate height, holes, bumpiness, pits, wells, transitions, and row clears.
